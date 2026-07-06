@@ -1,0 +1,7 @@
+-- This module is the root of the GeneralizedHodgeConjectureCanonicalLaneLean Lean proof package.
+import GeneralizedHodgeConjectureCanonicalLaneLean.Basic
+import GeneralizedHodgeConjectureCanonicalLaneLean.SourcePackage
+import GeneralizedHodgeConjectureCanonicalLaneLean.SourceDependencies
+import GeneralizedHodgeConjectureCanonicalLaneLean.Formalization
+import GeneralizedHodgeConjectureCanonicalLaneLean.ReviewerBridge
+import GeneralizedHodgeConjectureCanonicalLaneLean.TheoremStatement
